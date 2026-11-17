@@ -15,13 +15,13 @@ A structured pre-exam readiness guide and certification roadmap resource maintai
 
 ## Global Certification Tracks Covered
 
-| Vendor / Track | Focus Certifications | Preparation & Scheduling |
+| Vendor / Track | Focus Certifications | Study Guides & Exam Articles |
 | :--- | :--- | :--- |
-| **AWS Cloud** | Solutions Architect, Security Specialty, Cloud Practitioner | [Explore AWS Roadmaps](https://evolveskill4.com/) |
-| **Microsoft Azure** | Azure Administrator (AZ-104), DevOps, Azure AI | [Explore Azure Roadmaps](https://evolveskill4.com/) |
-| **Google Cloud** | Associate Cloud Engineer, Professional Cloud Architect | [Explore GCP Roadmaps](https://evolveskill4.com/) |
-| **CompTIA** | Security+ (SY0-701), Network+, A+ | [Explore CompTIA Roadmaps](https://evolveskill4.com/) |
-| **Fortinet** | NSE Network Security Certification Tracks | [Explore Fortinet Roadmaps](https://evolveskill4.com/) |
+| **AWS Cloud** | Solutions Architect, Security Specialty, Cloud Practitioner | [AWS Certification Guides & Articles](https://evolveskill4.com/blog/category/aws/) |
+| **Microsoft Azure** | Azure Administrator (AZ-104), DevOps, Azure AI | [Microsoft Certification Study Articles](https://evolveskill4.com/blog/category/microsoft/) |
+| **Google Cloud** | Associate Cloud Engineer, Professional Cloud Architect | [Multi-Cloud Study Roadmaps](https://evolveskill.jimdosite.com/study-roadmaps/) |
+| **CompTIA** | Security+ (SY0-701), Network+, A+ | [CompTIA Exam Preparation Guides](https://evolveskill4.com/blog/category/comptia/) |
+| **Fortinet** | NSE Network Security Certification Tracks | [Fortinet Network Security Articles](https://evolveskill4.com/blog/category/fortinet/) |
 
 ---
 
